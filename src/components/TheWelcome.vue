@@ -14,10 +14,13 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Commit</template>
 
-Commit + amend
-    revert commit
-    git push
-    не надо было сразу делать push, т.к. сложнее редактировать и удалять неправильные коммиты из удаленного репозитория
+Commit + amend<br>
+    Revert commit<br>
+    Git push<br>
+    Не надо было сразу делать push, т.к. сложнее редактировать и удалять неправильные коммиты из удаленного репозитория<br>
+    Удаление коммита из удаленного репозитория<br>
+
+
   </WelcomeItem>
 
   <WelcomeItem>
