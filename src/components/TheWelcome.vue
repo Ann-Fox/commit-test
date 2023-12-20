@@ -16,7 +16,8 @@ import SupportIcon from './icons/IconSupport.vue'
 
 Commit + amend
     revert commit
-    git push шт
+    git push
+    не надо было сразу делать push, т.к. сложнее редактировать и удалять неправильные коммиты из удаленного репозитория
   </WelcomeItem>
 
   <WelcomeItem>
