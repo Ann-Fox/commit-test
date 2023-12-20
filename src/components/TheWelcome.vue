@@ -15,6 +15,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Commit</template>
 
 Commit + amend
+    revert commit
   </WelcomeItem>
 
   <WelcomeItem>
