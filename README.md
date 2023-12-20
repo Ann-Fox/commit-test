@@ -2,6 +2,9 @@
 ## create new branch - dev
 ## delete remote branch - dev
 
+## merge
+* create branch - popup
+
 * create branch - login
 
 
