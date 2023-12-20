@@ -1,8 +1,8 @@
 ## Работа с ветками
+## create new branch - dev
+## delete remote branch - dev
 
 # I've added a cool feature that will change your life.
-
-# create new branch - dev 
 
 # untitled3
 
