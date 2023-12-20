@@ -16,6 +16,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
 Commit + amend
     revert commit
+    git push шт
   </WelcomeItem>
 
   <WelcomeItem>
